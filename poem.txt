@@ -6,6 +6,7 @@ purple
 blue
 red
 pink
+black
 unicorn
 silver
 orange
