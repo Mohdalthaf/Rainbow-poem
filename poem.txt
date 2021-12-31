@@ -5,6 +5,7 @@ yellow
 purple
 blue
 red
+pink
 unicorn
 silver
 orange
